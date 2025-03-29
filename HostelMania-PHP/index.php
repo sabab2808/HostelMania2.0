@@ -279,8 +279,8 @@ session_start();
                         </div>
                         <div class="col-xs-12 col-sm-4 address color-gray">
                                     <h5>Address</h5>
-                                    <p>1086 Stockert Hollow Road, Seattle</p>
-                                    <h5>Phone: 75696969855</a></h5> </div>
+                                    <p>Daffodil International University, Ashulia, Savar</p>
+                                    <h5>Phone: 9876543210</a></h5> </div>
                                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
                                     <h5>Addition informations</h5>
                                    <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
@@ -302,5 +302,31 @@ session_start();
     <script src="js/headroom.js"></script>
     <script src="js/foodpicky.min.js"></script>
 </body>
+
+
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.5.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.5.0/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyDQplmHSZ9DCOEezQ6ZJ_DznUXli2U_qWM",
+    authDomain: "hostelmania-crypto.firebaseapp.com",
+    projectId: "hostelmania-crypto",
+    storageBucket: "hostelmania-crypto.firebasestorage.app",
+    messagingSenderId: "696436796629",
+    appId: "1:696436796629:web:0b8d2f412c0f0b6c5d065c",
+    measurementId: "G-5TFK211KF8"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
 
 </html>
