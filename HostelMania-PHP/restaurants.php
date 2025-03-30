@@ -153,13 +153,14 @@ session_start();
                         </div>
                         <div class="col-xs-12 col-sm-4 address color-gray">
                                     <h5>Address</h5>
-                                    <p>1086 Kazipara, Dhaka</p>
-                                    <h5>Phone: 01234567898</a></h5> </div>
+                                    <p>Daffodil International University, Ashulia, Savar</p>
+                                    <h5>Phone: 9876543210</a></h5> </div>
                                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
                                     <h5>Addition informations</h5>
                                    <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
                                 </div>
-                    </div>
+                                </div>
+                            </div>
                 </div>
        
             </div>

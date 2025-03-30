@@ -285,7 +285,8 @@ session_start();
                                     <h5>Addition informations</h5>
                                    <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
                                 </div>
-                    </div>
+                                </div>
+                            </div>
                 </div>
           
             </div>
