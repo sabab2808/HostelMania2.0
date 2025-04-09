@@ -256,7 +256,7 @@ if(isset($_POST['submit'] ))
                
             </div>
        
-            <footer class="footer"> © 2022 - Online Food Ordering System </footer>
+            <footer class="footer"> © 2025 - HostelMania </footer>
       
         </div>
    
